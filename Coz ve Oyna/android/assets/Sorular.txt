@@ -1,0 +1,156 @@
+{1
+(
+$ [RED]12 544 152 [BLACK]sayısının onlar basamağındaki rakam ile milyonlar basamağındaki rakam yer değiştirildiğinde oluşan sayı aşağıdakilerden hangisidir ?
+A 12 544 125
+B 15 544 122
+C 22 544 112
+D 21 544 152
+=B
+)
+(
+$ [RED]876 ABC 417 [BLACK] sayısının okunuşu [RED]"sekiz yüz yetmiş altı milyon altı yüz dokuz bin dört yüz on yedi"[BLACK] olduğuna göre ABC yerine gelmesi gereken sayı aşağıdakilerden hangisidir?
+A 976
+B 960
+C 690
+D 609
+=D
+)
+(
+$ [BLACK]Okunuşu [RED]"kırk sekiz milyon doksan bin beş yüz altı" [BLACK]olan doğal sayı aşağıdakilerden hangisidir ?
+A 480 900 056
+B 490 090 506
+C 48 090 506
+D 48 009 506
+=C
+)
+(
+$ [RED]798 325 [BLACK]sayısında [RED]8,3 ve 5[BLACK] rakamlarının basamak değerleri toplamı kaçtır ?
+A 8035
+B 8005
+C 8305
+D 835
+=C
+)
+(
+$ [RED] 724 532 821[BLACK] sayısının birler bölüğü ile milyonlar bölüğü yer değiştirdiğinde oluşan sayı aşağıdakilerden hangisidir ?
+A 532 724 821
+B 721 532 824
+C 724 821 532
+D 821 532 724
+=D
+)
+(
+$ [RED]15 435 152 [BLACK]sayısının on milyonlar basamağı ile yüz binler basamağındaki rakamların sayı değerleri toplamı kaçtır ?
+A 3
+B 4
+C 5
+D 6
+=C
+)
+(
+$ [RED]54 204 364[BLACK] sayısında aynı rakamların basamak değerleri hangisinde doğru verilmiştir ?
+A 4 000 000 - 4000 - 4
+B 40 000 - 4000 - 4
+C 40 000 000 - 400 - 40
+D 40 000 - 4000 - 40
+=A
+)
+(
+$ [RED]72 306 849 [BLACK]sayısının milyonlar basamağı ile onlar basamağındaki rakamların basamak değerleri sırasıyla aşağıdakilerden hangisidir ?
+A 2 000 000 ve 40
+B 2 ve 4
+C 4 ve 2
+D 4 000 000 ve 20
+=A
+)
+(
+$ [BLACK]Aşağıdaki sayılardan hangisinde milyonlar basamağındaki rakam daha büyüktür ?
+A 48 489 654
+B 65 375 885
+C 76 764 378
+D 34 912 467
+=A
+)
+(
+$ [RED]4 , 10 , 16 , 22 , K , L , M[BLACK]  Sayı örüntüsünde verilen adımlar arasındaki farkı sabit olan sayı örüntüsünde K, L ve M sayılarının toplamı kaçtır ?
+A 102
+B 108
+C 114
+D 120
+=A
+)
+(
+$ [BLACK]Aşağıdaki sayılardan hangisinde 8 rakamının basamak değeri seksen bindir ?
+A 45 845 564
+B 45 485 564
+C 45 458 564
+D 48 455 455
+=B
+)
+(
+$ [BLACK]Para biriktirmeye 5 lira ile başlayan Nurten, sonraki her hafta kumbarasına 3 lira eklerse 13. hafta sonunda Nurşen'in kumbarasında kaç lira olur ?
+A 47
+B 44
+C 41 
+D 38
+=B
+)
+}
+{2
+(
+$ [RED]" 3 - 10 - 17 - ? - 31 - ? - " [BLACK]sayı dizisindeki "?" işaretlerinin yerlerine aşağıdakilerden hangileri gelmelidir?
+A 22 - 36
+B 16 - 44
+C 24 - 36
+D 24 - 38
+=D
+)
+(
+$ [RED]" 3 - 7 - 15 - 31 - 63 " [BLACK]sayı örüntüsünün kuralı aşağıdakilerden hangisidir?
+A 2 katının 1 fazlası
+B 2 katının 1 eksiği
+C 2 katı
+D 3 katının 2 eksiği
+=A
+)
+(
+$ [RED]1 - 2 - 4 - 8 - 20 - 32 - 64 [BLACK]örüntüsünde hangi sayı kuralı bozmaktadır?
+A 4
+B 8
+C 20
+D 32
+=C
+)
+(
+$ [RED]1 5 11 19 ? [BLACK]örüntüsünde ? yerine kaç yazılmalıdır?
+A 27
+B 29
+C 31
+D 33
+=B
+)
+(
+$ [RED]" 3 - 7 - 11 - 15 - A - 23 - B " [BLACK]örüntüsünde A ve B yerine yazılması gereken sayıların toplamı kaçtır?
+A 46
+B 40
+C 32
+D 19
+=A
+)
+(
+$ [RED]2, 6, 14, 30, 62, A, 254 [BLACK]sayı örüntüsünde "A" yerine yazılması gereken doğal sayı kaçtır?
+A 124
+B 126
+C 128
+D 130
+=B
+)
+(
+$ [RED]3 - 8 - 5 - 10 - ..?.. - 12  [BLACK]örüntüsünde "?" yerine ne gelmelidir?
+A 5
+B 6
+C 7
+D 8
+=C
+)
+}

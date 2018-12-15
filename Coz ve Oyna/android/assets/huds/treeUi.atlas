@@ -1,0 +1,33 @@
+
+treeUi.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button
+  rotate: false
+  xy: 1, 1
+  size: 180, 62
+  orig: 180, 62
+  offset: 0, 0
+  index: -1
+buttonHover
+  rotate: false
+  xy: 183, 2
+  size: 180, 61
+  orig: 180, 61
+  offset: 0, 0
+  index: -1
+minus
+  rotate: false
+  xy: 365, 13
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+plus
+  rotate: false
+  xy: 417, 13
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

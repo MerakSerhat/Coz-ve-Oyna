@@ -1,0 +1,27 @@
+
+spring.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+spring_in
+  rotate: false
+  xy: 48, 43
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+spring_out
+  rotate: false
+  xy: 1, 27
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+spring-
+  rotate: false
+  xy: 1, 1
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+
